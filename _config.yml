@@ -1,4 +1,4 @@
-name: safety lee
+name: safetylee
 favicon: null
 layout_spectrum: 0.6805095872841775
 typography_spectrum: 0.42949655489064753
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.8763368234504014
-  lightness: 0.3032477302476764
-  saturation: 0.6207067158538848
-  rhythmicContrast: 0.25073066749610007
+  brandStrength: 0.1875
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
