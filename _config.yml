@@ -1,28 +1,89 @@
-name: safetylee
-favicon: null
-layout_spectrum: 0.6805095872841775
-typography_spectrum: 0.42949655489064753
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: SafetyLee
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5a061e8-a551-4d2c-8387-6643099dd425.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5e45a11-da45-4c5b-aa02-6561373d539a.png
+layout_spectrum: 0.451628534845307
+typography_spectrum: 0.5822721135191213
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.1875
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.6322971708705594
+  lightness: 0.3028758109178357
+  saturation: 0.9185166582335156
+  rhythmicContrast: 0.07044830078904582
+purpose:
+  - type: external
+    label: Pre-order Patient Safety @ $99 / annum
+    url: 'https://techspeare.typeform.com/to/AB1yHl'
+  - type: external
+    label: 'Create Patient Safety, Earn @ $5000 / mth'
+    url: 'https://techspeare.typeform.com/to/o2UBvq'
+title: Escape Harm in Healthcare
+description: backed by patient safety experts and artificial intelligence
+author:
+  name: Ramm
+  url: 'https://safetylee.com'
+  email: ramm@techspeare.com
+content_rating:
+  adult: false
+navigation:
+  - name: Investor
+    id: cbce7db0-08db-4010-be3d-b7e045f67c01
+    type: content
+  - name: Blog
+    url: 'https://thegrid.ai/techspeare'
+    type: external
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1067b79f-490b-45c3-9f5e-67cfbac03892.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/1067b79f-490b-45c3-9f5e-67cfbac03892.jpg
+    metadata:
+      '@type': MediaObject
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dc43777-ba6d-4cc7-a0d7-62eba9b48b7c.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dc43777-ba6d-4cc7-a0d7-62eba9b48b7c.jpg
+    metadata:
+      '@type': MediaObject
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
