@@ -64,8 +64,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=-bYAQ-ZZtEU'
 title: Your Informed Consent is ‘manufactured’?
-datePublished: '2017-01-26T14:22:10.575Z'
-dateModified: '2017-01-26T14:22:09.759Z'
+datePublished: '2017-01-27T09:00:58.997Z'
+dateModified: '2017-01-27T09:00:58.133Z'
 via: {}
 inFeed: true
 sourcePath: >-
@@ -76,7 +76,7 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-### Do view this video before reading further
+### Please see this video before reading further
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-bYAQ-ZZtEU%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-bYAQ-ZZtEU&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-bYAQ-ZZtEU%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
@@ -84,7 +84,7 @@ _context: 'http://schema.org'
 
 The informed consent you sign presently in your journey in healthcare is a legal/regulatory requirement intended to protect a consumer's right but executed so as to protect the healthcare industry against liability.
 
-> What's missing is the prelude to Informed Consent, better described as an environment in which you have an Informed Conversation / Consultation / Collaboration with your healthcare professional - An environment designed to enable a systematic improvement in quality of care and outcome, while reducing scope for patient harm (medical error) and cost escalation
+> What's missing is the prelude to Informed Consent. An environment in which you have an Informed Conversation / Consultation / Collaboration with your healthcare professional - An environment designed to enable a systematic improvement in the quality of care and outcome while reducing the scope for patient harm (medical error) and cost escalation - SafetyLee
 
 ### So how does an ideal environment for Informed Consultation look like?
 
