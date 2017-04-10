@@ -6,7 +6,7 @@
         <generator>The Grid</generator>
         <lastBuildDate>Mon, 10 Apr 2017 11:32:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/safetylee/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Apr 2017 11:32:12 GMT</pubDate>
+        <pubDate>Mon, 10 Apr 2017 11:32:13 GMT</pubDate>
         <item>
             <title><![CDATA[Is fatal medical error a leading cause of death?]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-lDcWx3k0-0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-lDcWx3k0-0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-lDcWx3k0-0%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -57,6 +57,13 @@
             <pubDate>Mon, 10 Apr 2017 11:32:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why We Are Publishing Surgeons' Complication Rates]]></title>
+            <description><![CDATA[<article><h1>Why We Are Publishing Surgeons&apos; Complication Rates</h1><p>More than 1 million patients suffer harm each year while being treated in the U.S. health care system. Even more receive substandard care or costly overtreatment. The Story So Far Too many patients suffer harm instead of healing in U.S. medicine.</p><img src="https://www.propublica.org/images/ngen/gypsy_og_image/20150714-patient-safety-piggy-1200x630.jpg"></article>]]></description>
+            <link>https://www.propublica.org/article/surgeon-level-risk-editors-note</link>
+            <guid isPermaLink="false">2cf8dce9-63ed-4ca8-9be1-0e0dd6bb5807</guid>
+            <pubDate>Mon, 10 Apr 2017 11:32:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Your Informed Consent is ‘manufactured’?]]></title>
             <description><![CDATA[<h3>Please see this video before reading further</h3>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-bYAQ-ZZtEU%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-bYAQ-ZZtEU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-bYAQ-ZZtEU%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>,<h1>Your Informed Consent is ‘manufactured’?</h1>,<p>The informed consent you sign presently in your journey in healthcare is a legal/regulatory requirement intended to protect a consumer’s right but executed so as to protect the healthcare industry against liability.</p>,<blockquote>What&rsquo;s missing is the prelude to Informed Consent. An environment in which you have an Informed Conversation / Consultation / Collaboration with your healthcare professional - An environment designed to enable a systematic improvement in the quality of care and outcome while reducing the scope for patient harm (medical error) and cost escalation - SafetyLee</blockquote>,<h3>So how does an ideal environment for Informed Consultation look like?</h3>,<p><strong>Transparency: </strong>Your doctor discloses upfront both monetary and non-monetary benefits received from providers, insurers, and pharmaceutical / device manufacturers.</p>,<p><strong>Documentation:</strong> Your doctor allows you to record (video / audio) your interactions with them during consultation or surgery, and provides access in real time to their notes and reports.</p>,<p><strong>Duration: </strong>Your healthcare professional takes the time to listen deeply and answer questions. They do not discourage you from doing your own research, and substantiate their assertions with factual references. The time spent by your physician or surgeon is directly correlated with improved patient safety. Since time is money, the top paid medical professionals often can’t match the outcomes of those who prioritize for patient safety by spending more time with their patients.</p>]]></description>
             <link>https://www.youtube.com/watch?v=-bYAQ-ZZtEU</link>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/safetylee/your-doctor-needs-you/index.html</link>
             <guid isPermaLink="false">e1e492e6-2bf0-4584-a929-471d983d2f57</guid>
             <pubDate>Thu, 19 Jan 2017 15:44:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The SafetyLee Way]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/282fb0d9-c2b1-409e-b5a9-d3c440149ee2.gif">,<h1>The SafetyLee Way</h1>,<p>Why the Lee in safety, you wonder? For too long, the industry has been given plenty of leeway in the hope that they will improve patient safety on their own. Time and again, they have risen to the occasion by exhausting our premium and pocket in the name of defensive medicine and questionable standard of care.</p>,<h2>Mistakes are always forgivable, if one has the courage to admit to them - Bruce Lee</h2>,<p>Time for the Bruce Lee in you to take charge. SafetyLee provides the essential plumbing for the healthcare consumer to exercise their superpowers to prioritise patient safety and quality of care over profit and institutional self preservation.</p>]]></description>
-            <link>https://thegrid.ai/safetylee/the-safetylee-way/index.html</link>
-            <guid isPermaLink="false">da727add-899b-4f98-96d8-b294d0cdad8d</guid>
-            <pubDate>Wed, 18 Jan 2017 08:44:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
