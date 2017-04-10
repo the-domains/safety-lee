@@ -1,7 +1,7 @@
 ---
 title: 'Dear Potential Investor,'
-datePublished: '2017-01-25T15:56:53.140Z'
-dateModified: '2017-01-25T15:56:50.998Z'
+datePublished: '2017-04-10T11:32:00.903Z'
+dateModified: '2017-04-10T11:32:00.234Z'
 publisher: {}
 author: []
 inFeed: false
@@ -9,8 +9,8 @@ hasPage: true
 description: 'The below are our guiding principles to assess if we are meant for each other:'
 via: {}
 sourcePath: _posts/2016-12-02-fact-checking-the-fact-checks.md
-starred: false
-datePublishedOriginal: '2017-01-18T00:58:43.765Z'
+datePublishedOriginal: '2017-04-10T11:32:00.903Z'
+starred: true
 url: dear-potential-investor/index.html
 _type: Article
 _context: 'http://schema.org'
