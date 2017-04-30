@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Ramm is Founder and Principal Consultant at Techspeare Pte Ltd, Singapore.'
-dateModified: '2017-04-30T07:39:56.874Z'
-datePublished: '2017-04-30T07:39:58.085Z'
+dateModified: '2017-04-30T12:09:19.708Z'
+datePublished: '2017-04-30T12:09:20.657Z'
 title: ''
 author: []
 publisher: {}
