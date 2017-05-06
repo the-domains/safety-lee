@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Ramm is Founder and Principal Consultant at Techspeare Pte Ltd, Singapore.'
-dateModified: '2017-04-30T12:09:19.708Z'
-datePublished: '2017-04-30T12:09:20.657Z'
+dateModified: '2017-05-06T18:33:29.119Z'
+datePublished: '2017-05-06T18:33:30.272Z'
 title: ''
 author: []
 publisher: {}
@@ -16,7 +16,7 @@ url: ramm-is-founder-and-principal-consultant-at-techspeare-pte-l/index.html
 _type: Article
 
 ---
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1jrEOgjAURXe-4tq9bZSJpGUxJO58QWkfESKU9D2N_L0xJG6O5547HHfSGr2EIsgjbs-h37KgWwZKuOZE0LqtAMexTJtA9o28EnqLncMrHKvClLy6sz5QP3JIVBQC72tEopEKuESvrJ3Z_H5sYl5sfWnqc1ObmVXr7GHayn2zujX9j_oAB_874Q" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1jrEOgjAURXe-4tq9bZSJpGUxJO58QWkfESKU9D2N_L0xJG6O5547HHfSGr2EIsgjbs-h37KgWwZKuOZE0LqtAMexTJtA9o28EnqLncMrHKvClLy6sz5QP3JIVBQC72tEopEKuESvrJ3Z_H5sYl5sfWnqc1ObmVXr7GHayn2zujX9j_oAB_874Q" height="600" style=""></iframe>
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42558731-e227-4d39-9b28-824d06ede12f.jpg)
 
