@@ -1,7 +1,7 @@
 ---
 title: Drug company benevolence and the silence of the sick
-datePublished: '2017-04-30T07:40:34.904Z'
-dateModified: '2017-04-30T07:40:33.990Z'
+datePublished: '2017-05-06T18:31:21.485Z'
+dateModified: '2017-05-06T18:31:20.468Z'
 publisher: {}
 author: []
 inFeed: true
@@ -17,10 +17,12 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1jrEOgjAURXe-4tq9bZSJpGUxJO58QWkfESKU9D2N_L0xJG6O5547HHfSGr2EIsgjbs-h37KgWwZKuOZE0LqtAMexTJtA9o28EnqLncMrHKvClLy6sz5QP3JIVBQC72tEopEKuESvrJ3Z_H5sYl5sfWnqc1ObmVXr7GHayn2zujX9j_oAB_874Q" height="244" style=""></iframe>
-
-# Drug company benevolence and the silence of the sick
+# [Drug company benevolence and the silence of the sick][0]
 
 https://www.bloomberg.com/view/articles/2017-04-18/valeant-drug-company-benevolence-and-the-silence-of-the-sick
 
----
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1jrEOgjAURXe-4tq9bZSJpGUxJO58QWkfESKU9D2N_L0xJG6O5547HHfSGr2EIsgjbs-h37KgWwZKuOZE0LqtAMexTJtA9o28EnqLncMrHKvClLy6sz5QP3JIVBQC72tEopEKuESvrJ3Z_H5sYl5sfWnqc1ObmVXr7GHayn2zujX9j_oAB_874Q" height="600" style=""></iframe>
+
+
+
+[0]: https://www.bloomberg.com/view/articles/2017-04-18/valeant-drug-company-benevolence-and-the-silence-of-the-sick
