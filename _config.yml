@@ -1,22 +1,22 @@
+layout_spectrum: 0.2228512044394813
+typography_spectrum: 0.042530684295838866
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.1973593045206796
+  lightness: 0.5066769240230395
+  saturation: 0.8776179939119311
+  rhythmicContrast: 0.6902193777559159
 name: SafetyLee
-layout_spectrum: 0.451628534845307
-typography_spectrum: 0.5822721135191213
 cta: {}
 analytics: {}
 opengraph:
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
-  brandStrength: 0.6322971708705594
-  lightness: 0.3028758109178357
-  saturation: 0.9185166582335156
-  rhythmicContrast: 0.07044830078904582
 purpose:
   - type: external
     label: Free Access during Beta
