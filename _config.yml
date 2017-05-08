@@ -19,8 +19,9 @@ opengraph:
   appId: ''
 purpose:
   - type: external
-    label: My Patien-Safety Acumen Score
-    url: 'https://quiz.leadquizzes.com/q/keE1NI'
+    label: My Patient-Safety Acumen Score
+    url: >-
+      https://thegrid.ai/safetylee/how-safe-are-you-in-healthcare-even-if-you-are-a-doctor
   - type: external
     label: Experts/Advocates earn up to $50k
     url: 'https://techspeare.typeform.com/to/o2UBvq'
