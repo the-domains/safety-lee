@@ -1,19 +1,20 @@
-layout_spectrum: 0.2228512044394813
-typography_spectrum: 0.042530684295838866
+layout_spectrum: 0.32771140462792675
+typography_spectrum: 0.5595605102395362
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  brandStrength: 0.1973593045206796
-  lightness: 0.5066769240230395
-  saturation: 0.8776179939119311
-  rhythmicContrast: 0.6902193777559159
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.03459041684119049
+  lightness: 0.1220322674737856
+  saturation: 0.6197445338494191
+  rhythmicContrast: 0.14537892216171075
 name: SafetyLee
 cta: {}
-analytics: {}
+analytics:
+  google: UA-99034321-1
 opengraph:
   type: ''
   appId: ''
@@ -23,65 +24,84 @@ purpose:
     url: >-
       https://thegrid.ai/safetylee/how-safe-are-you-in-healthcare-even-if-you-are-a-doctor
   - type: external
-    label: Experts/Advocates earn up to $50k
-    url: 'https://techspeare.typeform.com/to/o2UBvq'
+    url: 'https://sowl.co/G5wkv'
+    label: Get SafetyLee Now
 title: Escape Medical Error in Healthcare
 description: >-
-  3 million die and 30 million suffer serious injury every year. We help you ask
-  the right question and take action that keeps you and loved ones safe.
+  Preventable harm in healthcare is neither tracked nor disclosed. Get
+  superpowers (right questions and actions) to keep you and your loved ones
+  safe.
 author:
   name: Ramm
   url: 'https://safetylee.com'
   email: ramm@techspeare.com
 content_rating:
   adult: false
-navigation:
-  - name: Investor
-    id: cbce7db0-08db-4010-be3d-b7e045f67c01
-    type: content
-  - name: Blog
-    url: 'https://thegrid.ai/techspeare'
-    type: external
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
+    type: video
     html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1067b79f-490b-45c3-9f5e-67cfbac03892.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/1067b79f-490b-45c3-9f5e-67cfbac03892.jpg
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FNrbdQFnHBGI%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNrbdQFnHBGI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNrbdQFnHBGI%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      '@type': MediaObject
-      '@context': 'http://schema.org'
-      keywords: []
+      author:
+        - name: Rammohan C B
+          url: 'https://www.youtube.com/channel/UCuJvbo6YALQNV1ho7rJZ5Ww'
+          avatar: {}
+      related: []
       publisher:
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-      author: []
-      starred: false
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dc43777-ba6d-4cc7-a0d7-62eba9b48b7c.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dc43777-ba6d-4cc7-a0d7-62eba9b48b7c.jpg
-    metadata:
-      '@type': MediaObject
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: youtu.be
+      keywords:
+        - ''
+      description: Uploaded by Rammohan C B on 2017-05-12.
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=NrbdQFnHBGI&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=NrbdQFnHBGI&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=NrbdQFnHBGI&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=NrbdQFnHBGI&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=NrbdQFnHBGI&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=NrbdQFnHBGI'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=NrbdQFnHBGI
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=NrbdQFnHBGI
+          package: '544007664'
+          namespace: google
+          type: ios
       '@context': 'http://schema.org'
-      keywords: []
-      publisher:
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-      author: []
-      starred: false
-      description: ''
+      isBasedOnUrl: 'https://youtu.be/NrbdQFnHBGI'
+      title: '583335999'
+      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
