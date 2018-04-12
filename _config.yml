@@ -25,6 +25,10 @@ author:
   email: ramm@techspeare.com
 name: SafetyLee
 cta: {}
+navigation:
+  - name: buyer beware blog
+    id: fd38c272-9e50-4f41-a6c5-1721baddecc4
+    type: content
 title: Escape Medical Error in Healthcare
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
