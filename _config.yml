@@ -25,10 +25,6 @@ author:
   email: ramm@techspeare.com
 name: SafetyLee
 cta: {}
-navigation:
-  - name: Blog
-    id: 39ba5fe4-f50d-4701-ada4-bb904111a2df
-    type: content
 title: Escape Medical Error in Healthcare
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
