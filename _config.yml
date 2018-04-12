@@ -1,5 +1,6 @@
-layout_spectrum: 0.32771140462792675
 typography_spectrum: 0.5595605102395362
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#16193B'
@@ -11,32 +12,24 @@ color:
   lightness: 0.1220322674737856
   saturation: 0.6197445338494191
   rhythmicContrast: 0.14537892216171075
-name: SafetyLee
-cta: {}
-analytics:
-  google: UA-99034321-1
+github: true
 opengraph:
   type: ''
   appId: ''
-purpose:
-  - type: external
-    label: My Patient-Safety Acumen Score
-    url: >-
-      https://thegrid.ai/safetylee/how-safe-are-you-in-healthcare-even-if-you-are-a-doctor
-  - type: external
-    url: 'https://sowl.co/G5wkv'
-    label: Get SafetyLee Now
-title: Escape Medical Error in Healthcare
-description: >-
-  Preventable harm in healthcare is neither tracked nor disclosed. Get
-  superpowers (right questions and actions) to keep you and your loved ones
-  safe.
+layout_spectrum: 0.32771140462792675
+analytics:
+  google: UA-99034321-1
 author:
   name: Ramm
   url: 'https://safetylee.com'
   email: ramm@techspeare.com
-content_rating:
-  adult: false
+name: SafetyLee
+cta: {}
+navigation:
+  - name: Blog
+    id: 39ba5fe4-f50d-4701-ada4-bb904111a2df
+    type: content
+title: Escape Medical Error in Healthcare
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -47,19 +40,17 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/NrbdQFnHBGI'
+      keywords:
+        - ''
+      related: []
       author:
         - name: Rammohan C B
           url: 'https://www.youtube.com/channel/UCuJvbo6YALQNV1ho7rJZ5Ww'
           avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: youtu.be
-      keywords:
-        - ''
-      description: Uploaded by Rammohan C B on 2017-05-12.
+      '@context': 'http://schema.org'
+      title: '583335999'
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=NrbdQFnHBGI&feature=applinks'
@@ -98,11 +89,24 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://youtu.be/NrbdQFnHBGI'
-      title: '583335999'
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: youtu.be
+      description: Uploaded by Rammohan C B on 2017-05-12.
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-github: true
+description: >-
+  Preventable harm in healthcare is neither tracked nor disclosed. Get
+  superpowers (right questions and actions) to keep you and your loved ones
+  safe.
+purpose:
+  - type: external
+    label: My Patient-Safety Acumen Score
+    url: >-
+      https://thegrid.ai/safetylee/how-safe-are-you-in-healthcare-even-if-you-are-a-doctor
+  - type: external
+    url: 'https://sowl.co/G5wkv'
+    label: Get SafetyLee Now
