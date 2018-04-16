@@ -99,9 +99,8 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
-  Preventable harm in healthcare is neither tracked nor disclosed. Get
-  superpowers (right questions and actions) to keep you and your loved ones
-  safe.
+  Preventable harm in healthcare is neither tracked nor disclosed. The right
+  questions and actions can keep you and your loved ones safe.
 purpose:
   - type: external
     label: My Patient-Safety Acumen Score
