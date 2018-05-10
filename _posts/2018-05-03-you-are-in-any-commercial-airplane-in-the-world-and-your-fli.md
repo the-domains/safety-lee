@@ -1,20 +1,18 @@
 ---
-inFeed: true
-description: >-
-  You are in any commercial airplane in the world and your flight is
-  experiencing turbulence.
-dateModified: '2018-05-10T22:54:38.970Z'
-datePublished: '2018-05-10T22:54:40.509Z'
 title: >-
   The Missing Red Flags: Why you need Worldwide and People-Driven Patient-Safety
   Announcements
-author: []
+datePublished: '2018-05-10T23:50:52.467Z'
+dateModified: '2018-05-10T23:50:39.666Z'
 publisher: {}
+author: []
+inFeed: true
+description: You are crossing the road on the zebra line at a traffic junction.
 via: {}
-sourcePath: >-
-  _posts/2018-05-03-you-are-in-any-commercial-airplane-in-the-world-and-your-fli.md
 starred: false
 datePublishedOriginal: '2018-05-03T08:49:13.459Z'
+sourcePath: >-
+  _posts/2018-05-03-you-are-in-any-commercial-airplane-in-the-world-and-your-fli.md
 _type: Blurb
 
 ---
@@ -22,33 +20,49 @@ _type: Blurb
 
 # The Missing Red Flags: Why you need Worldwide and People-Driven Patient-Safety Announcements
 
-You are in any commercial airplane in the world and your flight is experiencing turbulence.
+You are crossing the road on the zebra line at a traffic junction.
 
-Close Your Ears, What Do You See?
+What Do You See?
 
-You see that the captain has turned the seatbelt sign on. In addition, you are asked to get back to your seat and fasten your seatbelt.
+You see a red light to keep you from crossing when motor vehicles are passing. You see a green light when it is SAFE for YOU to cross.
 
 Why?
 
-There is a chance that you may get thrown around in the turbulence and you MAY suffer injury, sometimes fatal. Probability of dying in an air crash? 1 in x.
-
-You are crossing the road on the zebra line at a traffic junction.
-
-Close Your Ears. What Do You See?
-
-You see a red light to keep you from crossing when motor vehicles are passing. You see a green light when it is SAFE for YOU to cross. Probability of dying in a road accident? 1 in w.
+There is a very good chance that a vehicle may hit you, causing injury, often serious and fatal.
 
 You are at the MRT (Mass Rapid Transit) train station in Singapore and about to enter a train.
 
 Close Your Eyes, What Do You Hear?
 
-You hear that you should watch out for the gap between the platform and the door. Why? There is a chance that your foot may slip into the gap between the platform and the door, and you MAY suffer injury, sometimes serious and rarely fatal. Probability of dying in a train? 1 in y
+You hear that you should watch out for the gap between the platform and the door. 
+
+Why? 
+
+There is a chance that your foot may slip into the gap between the platform and the door, and you MAY suffer injury, sometimes serious and fatal.
+
+You are in any commercial airplane in the world and your flight is experiencing turbulence.
+
+Close your ears, what do you see?
+
+You see that the captain has turned on the seatbelt sign. 
+
+Open your ears, what do you hear? 
+
+You are asked to get back to your seat and fasten your seatbelt.
+
+Why?
+
+There is a chance that you may get thrown around in the turbulence and you MAY suffer injury, sometimes fatal. 
 
 You are in a hospital for a basic surgical procedure.
 
+There is a patient who has died of pneumonia contracted while in the hospital. He did not have pneumonia when he came to the hospital. This is called Hospital Acquired Infection (HAI), a totally preventable death. But it has happened and there is a chance that you can suffer from a similar HAI as well. 
+
 Open Your Eyes and Ears, What Do You See? What Do You Hear?
 
-There is a patient who has died of pneumonia contracted while in the hospital. He did not have pneumonia when he came to the hospital. This is called Hospital Acquired Infection (HAI), a totally preventable death. But it has happened and there is a chance that you can suffer from a similar HAI as well. But you hear nothing. You see nothing. Probability of dying due to medical error in a hospital? 1 in z
+You hear nothing. You see nothing. Probability of dying or suffering serious injury due to medical error? Very very high. 
+> 
+> All mistakes are forgivable if one has the courage to admit to them - Bruce Lee
 
 Introducing SafetyLee. A real-time early warning system to help you escape harm in healthcare. When your colleagues, neighbours, near and dear use it, everybody gets safer. How? When one of them suffers one kind of issue in healthcare, all who go through THAT kind of issue sees or hears a RED FLAG of WHAT to look out for and HOW to prevent THAT from happening to them.
 
