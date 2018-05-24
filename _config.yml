@@ -103,7 +103,7 @@ description: >-
   questions and actions can keep you and your family safe.
 purpose:
   - type: external
-    label: My Patient-Safety Acumen Score
+    label: Bot for Advocates
     url: >-
       https://thegrid.ai/safetylee/how-safe-are-you-in-healthcare-even-if-you-are-a-doctor
   - type: external
