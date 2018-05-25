@@ -59,8 +59,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/J5Wx4245RQw'
 title: SafetyLee
-datePublished: '2018-05-25T17:16:28.639Z'
-dateModified: '2018-05-25T17:16:27.622Z'
+datePublished: '2018-05-25T19:01:03.718Z'
+dateModified: '2018-05-25T19:01:02.779Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-05-25-safetylee.md
