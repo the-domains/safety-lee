@@ -29,6 +29,9 @@ navigation:
   - name: buyers beware blog
     id: fd38c272-9e50-4f41-a6c5-1721baddecc4
     type: content
+  - name: Privacy Policy
+    id: 7d6375f3-e8fe-4494-bd83-d71f1c3e93c7
+    type: content
 title: Escape Harm in Healthcare
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
