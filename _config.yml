@@ -32,6 +32,9 @@ navigation:
   - name: Privacy Policy
     id: 7d6375f3-e8fe-4494-bd83-d71f1c3e93c7
     type: content
+  - name: Terms of Use
+    id: 03cb4e72-c4a6-47bb-bc3b-334cc5d11779
+    type: content
 title: Escape Harm in Healthcare
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
