@@ -28,8 +28,8 @@ description: >-
   than a dozen physical therapy sessions.
 app_links: []
 title: Why Your Health Insurer Doesn't Care About Your Big Bills - ProPublica
-datePublished: '2018-05-25T17:14:43.567Z'
-dateModified: '2018-05-25T17:14:42.234Z'
+datePublished: '2018-05-25T17:16:28.646Z'
+dateModified: '2018-05-25T17:16:27.622Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-05-25-why-your-health-insurer-doesnt-care-about-your-big-bills-.md
