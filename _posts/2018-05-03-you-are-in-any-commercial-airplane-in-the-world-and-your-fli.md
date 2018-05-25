@@ -2,17 +2,17 @@
 title: >-
   The Missing Red Flags: Why you need Worldwide and People-Driven Patient-Safety
   Announcements
-datePublished: '2018-05-10T23:50:52.467Z'
-dateModified: '2018-05-10T23:50:39.666Z'
+datePublished: '2018-05-25T17:16:28.650Z'
+dateModified: '2018-05-25T17:16:27.622Z'
 publisher: {}
 author: []
 inFeed: true
 description: You are crossing the road on the zebra line at a traffic junction.
 via: {}
-starred: false
-datePublishedOriginal: '2018-05-03T08:49:13.459Z'
 sourcePath: >-
   _posts/2018-05-03-you-are-in-any-commercial-airplane-in-the-world-and-your-fli.md
+starred: false
+datePublishedOriginal: '2018-05-03T08:49:13.459Z'
 _type: Blurb
 
 ---
