@@ -36,7 +36,34 @@ navigation:
     id: 03cb4e72-c4a6-47bb-bc3b-334cc5d11779
     type: content
 title: Escape Harm in Healthcare
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01df82431d4a32a3539813e5309a9035ed9707ba.jpg">
+    src: >-
+      https://s3-us-west-2.amazonaws.com/the-grid-img/p/01df82431d4a32a3539813e5309a9035ed9707ba.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://s3-us-west-2.amazonaws.com'
+        name: .s3-us-west-2.amazonaws.com
+        favicon: null
+        domain: imgflo.herokuapp.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: >-
+        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/552827c3f1eef1daeb2bcb2cf53a361f/croprotate.jpg?cropheight=274&cropwidth=480&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FJ5Wx4245RQw%2Fhqdefault.jpg&x=0&y=46
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
   Preventable harm in healthcare is neither tracked nor disclosed. The right
   questions and actions can keep you and your family safe.
