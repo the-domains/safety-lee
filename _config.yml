@@ -64,9 +64,9 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
-  The fastest way to escape harm. Preventable harm in healthcare is neither
-  tracked nor disclosed. The right questions and actions can keep you and your
-  family safe.
+  Preventable harm in healthcare is neither tracked nor disclosed. The fastest
+  way to escape is to ask the right questions and take the right actions that
+  keep you and your family safe.
 purpose:
   - type: external
     label: Bot for Advocates
