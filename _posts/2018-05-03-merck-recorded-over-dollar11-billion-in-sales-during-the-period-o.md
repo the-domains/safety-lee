@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Merck recorded over $11 billion in sales during the period of time Vioxx, a
   painkiller drug, was on the market. The number
-dateModified: '2018-05-25T17:16:27.622Z'
-datePublished: '2018-05-25T17:16:28.636Z'
+dateModified: '2018-05-30T07:54:21.926Z'
+datePublished: '2018-05-30T07:54:22.849Z'
 title: ''
 author: []
 publisher: {}
