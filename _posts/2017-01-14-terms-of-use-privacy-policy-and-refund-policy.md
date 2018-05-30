@@ -8,8 +8,8 @@ description: >-
   these terms, you are prohibited from using or accessing this site. The
   materials contained in this website are protected by applicable copyright and
   trademark law.
-dateModified: '2018-05-25T17:16:27.622Z'
-datePublished: '2018-05-25T17:16:28.638Z'
+dateModified: '2018-05-30T07:54:21.926Z'
+datePublished: '2018-05-30T07:54:23.009Z'
 title: 'Terms of Use, Privacy Policy and Refund Policy'
 author: []
 publisher: {}
