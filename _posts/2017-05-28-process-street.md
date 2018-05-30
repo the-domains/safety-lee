@@ -13,8 +13,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://app.process.st/checklists/jh8i1VcR3TOnxwZmSGRBvg'
 title: Process Street
-datePublished: '2018-05-25T20:29:20.813Z'
-dateModified: '2018-05-25T20:29:19.448Z'
+datePublished: '2018-05-30T07:54:22.946Z'
+dateModified: '2018-05-30T07:54:21.926Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-28-process-street.md
