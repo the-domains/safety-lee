@@ -12,7 +12,7 @@ keywords:
   - cancer
   - health-care
 title: America's Epidemic of Unnecessary Care
-dateModified: '2018-05-25T17:16:27.622Z'
+dateModified: '2018-05-30T07:54:21.926Z'
 publisher:
   name: The New Yorker
   domain: www.newyorker.com
@@ -29,7 +29,7 @@ description: >-
   my desk, eating a ham-and-cheese sandwich and clicking through medical
   articles.
 via: {}
-datePublished: '2018-05-25T17:16:28.651Z'
+datePublished: '2018-05-30T07:54:22.932Z'
 sourcePath: _posts/2017-01-21-americas-epidemic-of-unnecessary-care.md
 starred: false
 datePublishedOriginal: '2018-04-12T17:19:42.361Z'
