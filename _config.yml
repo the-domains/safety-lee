@@ -54,7 +54,6 @@ content:
         domain: imgflo.herokuapp.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -65,8 +64,9 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
-  Preventable harm in healthcare is neither tracked nor disclosed. The right
-  questions and actions can keep you and your family safe.
+  The fastest way to escape harm. Preventable harm in healthcare is neither
+  tracked nor disclosed. The right questions and actions can keep you and your
+  family safe.
 purpose:
   - type: external
     label: Bot for Advocates
